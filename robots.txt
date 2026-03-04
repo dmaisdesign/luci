@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucidbag.com.br/sitemap.xml
